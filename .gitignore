@@ -1,0 +1,4 @@
+dist/
+build/
+pythonsum.egg-info/
+.gitigonre
